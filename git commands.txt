@@ -1,0 +1,45 @@
+git commands
+------------------------
+git init - Initializes a new Git repository.
+
+git status - shows the current state of your Git working directory and staging area.
+
+git add - Moves changes from the working directory to the staging area.
+
+git commit - Takes the staged snapshot and commits it to the project history 
+
+git checkout - allows you to select specific commits or branches
+
+git log - shows you all the  commits and branches 
+
+git branch - creates a new branch 
+
+git merge - combines branches 
+
+git push - allows you to  upload a branch from your local repository to a remote repository
+
+git pull -  It downloads a branch from a remote repository, then immediately merges it into the current branch.
+
+git fetch - downloads a branch from another repository, along with all of its associated commits and files.
+
+git reset - Undoes changes to files in the working directory.
+
+git revert Undoes a committed snapshot.
+
+git remote add - Links a local repository to a remote repository
+
+git remote - lists all remote repositories that are linked to your local one 
+
+git remote -v does the same as git remote but shows more details 
+
+git remote remove - Removes a link to a remote repository
+
+git clone - Download a remote repository.
+
+git rebase - Rebasing lets you move branches around
+
+git commit --amend - allows you to modify a commit  without making a new one.
+
+git branch -d - deletes the  branch that has already been pushed and merged with the  remote branch
+
+git branch -D deletes the branch even if it has not been pushed and merged yet 
